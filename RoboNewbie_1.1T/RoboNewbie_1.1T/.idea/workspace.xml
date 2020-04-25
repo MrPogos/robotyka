@@ -1,20 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21549f41-8b9d-439b-a1d2-14a09f8708f9" name="Default Changelist" comment="" />
+    <list default="true" id="21549f41-8b9d-439b-a1d2-14a09f8708f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/EffectorOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/EffectorOutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/PerceptorInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/PerceptorInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/ServerCommunication$ConectionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/ServerCommunication$ConectionException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/ServerCommunication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/ServerCommunication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/TrainerCommunication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/TrainerCommunication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptorInputUtil/IllegalSymbolInputException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptorInputUtil/IllegalSymbolInputException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptorInputUtil/PerceptorConversionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptorInputUtil/PerceptorConversionException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptorInputUtil/SymbolNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptorInputUtil/SymbolNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptorInputUtil/SymbolTreeParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptorInputUtil/SymbolTreeParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptors/ForceResistancePerceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptors/ForceResistancePerceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptors/GameStatePerceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptors/GameStatePerceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptors/HearPerceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptors/HearPerceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptors/LineVisionPerceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptors/LineVisionPerceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptors/PlayerVisionPerceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/agentIO/perceptors/PlayerVisionPerceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/directMotion/LookAroundMotion$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/directMotion/LookAroundMotion$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/directMotion/LookAroundMotion$HeadPose.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/directMotion/LookAroundMotion$HeadPose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/directMotion/LookAroundMotion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/directMotion/LookAroundMotion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/Agent_BasicStructure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/Agent_BasicStructure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/Agent_Dummy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/Agent_Dummy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/Agent_Dummy2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/Agent_Dummy2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/Agent_TestLocalFieldView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/Agent_TestLocalFieldView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/Agent_TestPerceptorInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/Agent_TestPerceptorInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentKeyframeDeveloper/Agent_KeyframeDeveloper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentKeyframeDeveloper/Agent_KeyframeDeveloper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentKeyframeDeveloper/KeyDevThinking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentKeyframeDeveloper/KeyDevThinking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentKeyframeDeveloper/OtherSideGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentKeyframeDeveloper/OtherSideGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSimpleSoccer/Agent_SimpleSoccer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSimpleSoccer/Agent_SimpleSoccer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSimpleSoccer/SoccerThinking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSimpleSoccer/SoccerThinking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSimpleWalkToBall/Agent_SimpleWalkToBall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSimpleWalkToBall/Agent_SimpleWalkToBall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSimpleWalkToBall/SimpleThinking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSimpleWalkToBall/SimpleThinking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/Agent_SoccerTeam$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/Agent_SoccerTeam$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/Agent_SoccerTeam$AfterGoalState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/Agent_SoccerTeam$AfterGoalState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/Agent_SoccerTeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/Agent_SoccerTeam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/SimpleAttacker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/SimpleAttacker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/SimpleGoalie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/SimpleGoalie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/SimpleSoccer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/SimpleSoccer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/SimpleSoccer_withKick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/SimpleSoccer_withKick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/SoccerTeamThinking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/examples/agentSoccerTeam/SoccerTeamThinking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/KeyframeMotion$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/KeyframeMotion$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/KeyframeMotion$MotionState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/KeyframeMotion$MotionState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/KeyframeMotion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/KeyframeMotion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/util/Keyframe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/util/Keyframe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/util/KeyframeFileHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/util/KeyframeFileHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/util/KeyframeSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/util/KeyframeSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/util/TestSequencesCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/keyframeMotion/util/TestSequencesCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/BallModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/BallModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/DatedItemModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/DatedItemModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/FlagModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/FlagModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/GoalPostModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/GoalPostModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/LineModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/LineModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/LocalFieldView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/LocalFieldView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/PlayerModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/localFieldView/PlayerModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/Agent_Trainer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/Agent_Trainer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/Agent_Trainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/Agent_Trainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/TrainerCommandExecutor$Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/TrainerCommandExecutor$Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/TrainerCommandExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/TrainerCommandExecutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/TrainerThinking$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/TrainerThinking$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/TrainerThinking$ExperimentState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/TrainerThinking$ExperimentState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/TrainerThinking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/trainer/TrainerThinking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/BeamPoses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/BeamPoses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/FieldConsts$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/FieldConsts$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/FieldConsts$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/FieldConsts$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/FieldConsts$FlagID.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/FieldConsts$FlagID.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/FieldConsts$GoalPostID.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/FieldConsts$GoalPostID.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/FieldConsts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/FieldConsts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/GameStateConsts$PlayMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/GameStateConsts$PlayMode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/GameStateConsts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/GameStateConsts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/Logger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/RobotConsts$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/RobotConsts$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/RobotConsts$BodyPartName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/RobotConsts$BodyPartName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/RobotConsts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoboNewbie_1.1T/util/RobotConsts.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1a5Kq1JMZrdUQc45LkQwCITRLaa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Portfolio/RoboNewbie" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="Agent_BasicStructure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -50,22 +134,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1586085475749">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1587816399862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1587816399862" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1587817223237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1587817223237" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1587817463167">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586085475749" />
-    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1586085475748">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1587817463167" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1587817463167">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586085475748" />
-    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1586085475748">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1587817463167" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1587817463167">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586085475748" />
-    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1586085475748">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1587817463167" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1587817463167">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586085475748" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1587817463167" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1587817456067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1050@0.0.1920.1040" timestamp="1587817456067" />
     <state x="501" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1586020205615">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
